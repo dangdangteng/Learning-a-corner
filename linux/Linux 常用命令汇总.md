@@ -44,7 +44,7 @@
 ```
    windows > ipconfig
    linux > ip addr -or- ifconfig(需要预装） 
-``` 
+```
 - 网关，路由，进程简介
 ```
     1.tracert
@@ -66,7 +66,7 @@
     rpm -q 加文件名 
     rpm -e 文件名 删除某个程序
     rpm -qa|grep a  查询是否存在命令a
-```   
+```
 - find命令
 ```
      find /home -amin -10  十分钟内存取的文件或目录
@@ -74,7 +74,7 @@
      find /home -cmin -10 十分钟内更改过的文件或目录
      find /home -ctime +10 十小时前更改过的文件或目录
      find /home -size +10k  查找/home目录下大小为10k的文件
-```		 
+```
 - 压缩tar zip gzip 7z 后追加文件路径
 ```
 • tar命令
@@ -124,3 +124,9 @@ hwclock 查看系统硬件时间
     # hwclock --systohc 
 ```
 tcp 最大链接数：65535
+
+
+
+查询历史快捷键
+
+> control + r 快速在历史记录中匹配

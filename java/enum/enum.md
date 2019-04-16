@@ -1,6 +1,6 @@
 # 枚举 enum
 
-```
+```java
 package com.angle.alita.mimor;
 
 /***
