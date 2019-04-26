@@ -1,4 +1,7 @@
+
+
 # ubuntu 随笔
+
 ### unbuntu 安装deb rpm文件
 
 方法一：
@@ -49,7 +52,7 @@ APT的底层包是dpkg, 而dpkg 安装Package时, 会将 *.deb 放在 ```/var/ca
 
 ```apt-get clean ```
 使用 ```apt-get clean``` 会将 ```/var/cache/apt/archives/``` 的 所有 deb 删掉，可以理解为 ```rm /var/cache/apt/archives/*.deb```
- 
+
 [原文](https://blog.csdn.net/get_set/article/details/51276609)https://blog.csdn.net/get_set/article/details/51276609
 
 ### ubuntu 卡怎么办
@@ -62,13 +65,13 @@ APT的底层包是dpkg, 而dpkg 安装Package时, 会将 *.deb 放在 ```/var/ca
 4. 设置当下策略下cpu频率
 
    ```sudo cpufreq-set -d 1800m -u 2700m   //适用模式：powersave|ondemand|conservative|performance```
-    
+   
    ```sudo cpufreq-set -f {1800m~2700m}   //适用模式：userspace ```
    
     -d 设置最小频率
    
     -u 设置最大频率
- 
+
 [原文](https://blog.csdn.net/Heimerdinger_Feng/article/details/79126365)https://blog.csdn.net/Heimerdinger_Feng/article/details/79126365
 
 ### 内存优化
