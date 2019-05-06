@@ -1,19 +1,22 @@
-# 枚举 enum
-
 ```java
-package com.angle.alita.mimor;
-
-/***
- * created by huxueyan101
- * @data : 2019-04-14,2019
- ***/
 public enum demo2 {
     a("1", 1),
     b("2", 2),
     c("3", 3);
+    /**
+        s 字符串
+     */
     private String s;
+    /**
+        i 整数
+     */
     private Integer i;
 
+    /**
+     *
+     * @param s
+     * @param i
+     */
     demo2(String s, int i) {
         this.s = s;
         this.i = i;
@@ -28,7 +31,7 @@ public enum demo2 {
     }
 }
 
-class aba {
+class A {
 
     public static void main(String[] args) {
         String test = demo2.a.getS();
@@ -41,6 +44,12 @@ class aba {
         System.out.println(ti+ti1+ti2);
     }
 }
-
 ```
 
+
+
+1）代码可读性差、易用性低。
+
+2）类型不安全。
+
+3）耦合性高，扩展性差。
