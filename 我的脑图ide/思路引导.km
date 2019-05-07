@@ -1,0 +1,86 @@
+{
+    "root": {
+        "data": {
+            "id": "btx3ta6quy80",
+            "created": 1557229573663,
+            "text": "前端总结"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "btx4ag0ayw00",
+                    "created": 1557230918525,
+                    "text": "react"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "btx4agsejco0",
+                    "created": 1557230920224,
+                    "text": "dva"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "btx4ah0mnls0",
+                    "created": 1557230920721,
+                    "text": "antd"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "btx4ah9mw340",
+                    "created": 1557230921266,
+                    "text": "vue"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "btx4ahgz0ww0",
+                    "created": 1557230921709,
+                    "text": "react全家桶"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "btx4ahpra0o0",
+                    "created": 1557230922240,
+                    "text": "mock"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "btx4ahzc5lk0",
+                    "created": 1557230922820,
+                    "text": "easy mock"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "btx4bgfvnr40",
+                    "created": 1557230997830,
+                    "text": "国际化 前端"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "btx4cz7kzzs0",
+                    "created": 1557231117052,
+                    "text": "bigfish"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
