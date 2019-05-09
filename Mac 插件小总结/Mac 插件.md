@@ -1,6 +1,6 @@
 # 这些插件有的是免费的,有的是基础功能就够的均是不需要用money的
 
-Typora 
+Typora
 
 > Markdown 语法编译器 一直在用很强大,所写即所见
 
@@ -26,7 +26,7 @@ iterm2
 
 sourceTree
 
-> Git 一个超级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比较麻烦搞不懂的就换smartgit吧 
+> Git 一个超级好用的gui界面工具,注意软件是随意使用的但是需要注册一下比较麻烦搞不懂的就换smartgit吧
 
 mamp
 
@@ -52,7 +52,7 @@ LICEcap
 
 > gif 录制工具
 
-virtualBox 
+virtualBox
 
 > oracle出品的虚拟机软件免费的 还不错
 
@@ -76,7 +76,7 @@ caffeine
 
 > 累死你电脑,会让你电脑在一段时间内不休眠
 
-keka 
+keka
 
 > Mac下的7zip 好用
 
@@ -91,8 +91,6 @@ cheatsheet
 vlc
 
 > 国内大部分视频播放器的爸爸 开源
-
-
 
 # 收费的
 
