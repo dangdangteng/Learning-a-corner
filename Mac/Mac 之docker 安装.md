@@ -28,3 +28,14 @@
 redis-server --appendonly yes : 在容器执行redis-server启动命令，并打开redis持久化配置
 ```
 
+
+
+> docker ps -a         查看所有容器包含停止的
+>
+> docker rm containerid/name         移除容器
+>
+> docker stop containerid/name      停止容器
+>
+> docker start containerid/name	  开启容器
+>
+> docker kill containerid/name	强制退出容器
